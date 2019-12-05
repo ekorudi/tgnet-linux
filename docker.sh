@@ -1,0 +1,1 @@
+docker run -t -i -v /Users/ok/dev/Telegram/TMessagesProj/jni/tgnet:/home  gcc /bin/bash
